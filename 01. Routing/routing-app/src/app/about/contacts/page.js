@@ -1,9 +1,13 @@
-import ContactItem from "@/app/about/contacts/[id]/page";
+'use client';
+
+import { useFoo } from "@/custom_hooks/useFoo";
 
 export default function Contact() {
+  const [contact, setContact] = useFoo("Peter Parker");
+
   return (
     <div>
-      <h1>Contacts</h1>
+      <h1>{contact}</h1>
       <ul>
       </ul>
     </div>
