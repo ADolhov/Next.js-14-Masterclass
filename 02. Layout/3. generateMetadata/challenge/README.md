@@ -10,7 +10,7 @@ The goal of this exercise is to practice generating metadata for pages in a Next
 
 2. For each page, implement the following:
 
-- Define a unique title for the page. For example, the "page.js" page might have the title "Home," and the "about.js" page might have the title "About Us."
+- Define a unique title for the page. For example, the "page.jsx" page might have the title "Home," and the "about.js" page might have the title "About Us."
 - Create a description for each page, which should be a short summary of the content.
 - Specify image URLs for social media sharing (e.g., Open Graph images).
 

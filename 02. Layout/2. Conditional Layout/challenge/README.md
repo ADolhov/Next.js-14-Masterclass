@@ -8,9 +8,9 @@ The goal of this exercise is to practice creating conditional layouts in a Next.
 
 2. Create two distinct layout components: "StandardLayout.js" and "AlternateLayout.js." Each layout component should have a different structure, styling, or content.
 
-3. Create a new page or modifiy the exisiting one in the "app" directory named "page.js." This page will serve as the landing page for your application.
+3. Create a new page or modifiy the exisiting one in the "app" directory named "page.jsx." This page will serve as the landing page for your application.
 
-4. Implement conditional layout selection for the root "page.js". If a specific condition is met (e.g., a user is logged in), use the "AlternateLayout" component; otherwise, use the "StandardLayout" component.
+4. Implement conditional layout selection for the root "page.jsx". If a specific condition is met (e.g., a user is logged in), use the "AlternateLayout" component; otherwise, use the "StandardLayout" component.
 
 5. Design the "StandardLayout" and "AlternateLayout" components to make them visually distinct.
 
